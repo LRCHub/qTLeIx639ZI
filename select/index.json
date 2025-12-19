@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "NEW HORIZON",
+  "base_artist": "KEN BLAST",
+  "createdAt": "2025-12-19T12:42:01.741035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "New Horizon",
+      "artist": "Midnattsol",
+      "has_synced": true,
+      "path": "select/01_New_Horizon_Midnattsol.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New Horizon",
+      "artist": "John Parr Vs. Tommyknockers",
+      "has_synced": false,
+      "path": "select/02_New_Horizon_John_Parr_Vs._Tommyknockers.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A New Horizon",
+      "artist": "Smash Into Pieces",
+      "has_synced": false,
+      "path": "select/03_A_New_Horizon_Smash_Into_Pieces.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "New Horizon",
+      "artist": "Domain",
+      "has_synced": false,
+      "path": "select/04_New_Horizon_Domain.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Horizon - Extended",
+      "artist": "KEN BLAST",
+      "has_synced": true,
+      "path": "select/05_New_Horizon_-_Extended_KEN_BLAST.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A New Horizon",
+      "artist": "Smash Into Pieces",
+      "has_synced": true,
+      "path": "select/06_A_New_Horizon_Smash_Into_Pieces.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A New Horizon - Acoustic",
+      "artist": "Smash Into Pieces",
+      "has_synced": false,
+      "path": "select/07_A_New_Horizon_-_Acoustic_Smash_Into_Pieces.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Way (New Horizon)",
+      "artist": "Pat Barrett",
+      "has_synced": true,
+      "path": "select/08_The_Way_(New_Horizon)_Pat_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A New Horizon (acoustic)",
+      "artist": "Smash Into Pieces",
+      "has_synced": false,
+      "path": "select/09_A_New_Horizon_(acoustic)_Smash_Into_Pieces.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "New Horizon",
+      "artist": "Mob Rules",
+      "has_synced": false,
+      "path": "select/10_New_Horizon_Mob_Rules.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Way (New Horizon)",
+      "artist": "The Worship Initiative feat. Shane & Shane & Sam Deford",
+      "has_synced": true,
+      "path": "select/11_The_Way_(New_Horizon)_The_Worship_Initiative_feat._Shane_&_Shane_&_Sam_Deford.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Way (New Horizon)",
+      "artist": "The Worship Initiative and Shane & Shane",
+      "has_synced": true,
+      "path": "select/12_The_Way_(New_Horizon)_The_Worship_Initiative_and_Shane_&_Shane.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "New Horizon",
+      "artist": "The Answer",
+      "has_synced": true,
+      "path": "select/13_New_Horizon_The_Answer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New Horizon",
+      "artist": "Ken Blast",
+      "has_synced": false,
+      "path": "select/pl_01_New_Horizon_Ken_Blast.txt"
+    }
+  ]
+}
